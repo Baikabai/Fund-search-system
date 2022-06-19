@@ -1,2 +1,4 @@
+# Suzuki-lab
 # Fund-search-system
-Fund search system
+
+Joint research with Daiwa Securities Co.Ltd.,
